@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "76120218020",
+    "project_id": "mycap-cb5d7",
+    "storage_bucket": "mycap-cb5d7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76120218020:android:11c1f7bd2e69392a40c931",
+        "android_client_info": {
+          "package_name": "com.example.chatappfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ6lT8DJwAxE2txaJMj8EMN2ltRQu4ebk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
